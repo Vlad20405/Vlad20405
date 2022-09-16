@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vlad20405
 - 👀 I’m interested in coding better and better.
 - 🌱 I’m currently learning how to code a robot.
-- 💞️ I’m looking to collaborate with FTC Ultimate Goal whith RO101-Future Tech
 - 📫 How to reach me //bucevschivlad9@gmail.com
 
 <!---
